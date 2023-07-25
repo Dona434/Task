@@ -1,0 +1,105 @@
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@500&display=swap');
+
+.navbar{
+    background: #FFF;
+    box-shadow: 0px 1px 15px 0px rgba(21, 21, 21, 0.08);
+    height: 124px;
+}
+.navbartabs{
+    margin-left: 15.3rem;
+    margin-top: -35px;
+}
+.guidance{
+    color: #494949;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.18px;
+    margin-right: 25px;
+    margin-left: 755px;
+    margin-bottom: 50px;
+    margin-top: 49px;
+    width: 87px;
+    height: 25px;
+}
+.help{
+    color: #494949;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.18px;
+    width: 43px;
+    height: 25px;
+    margin-right: 25px;
+}
+.outer{
+    width: 76px;
+    height: 34px;
+    border-radius: 50px;
+    background: #2A97E1;
+    padding-top: 4px;
+    padding-bottom: 5px; 
+}
+.inner{
+    width: 48px;
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.18px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.home{
+    color: #2A97E1;
+    font-family: Readex Pro;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.18px;
+    margin-left: 128px;
+    margin-top: 48px;
+}
+.outerBox{
+    margin-bottom: 45px;
+    display: inline;
+}
+.hcontainer{
+    display: flex;
+    justify-content: left;
+    margin-bottom: 20px;
+}
+.arrow{
+    margin-left: 180px;
+    margin-top: -40px;
+}
+.line{
+    width: 1100px;
+    height: 0.1px;
+    background: #AFAFAF;
+    margin-left: 8rem;
+}
+.digital{
+    color: #494949;
+    font-family: Readex Pro;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.18px;
+    margin-top: -40px;
+    margin-left: 10px;
+}
+.arrow1{
+    margin-top:-40px;
+    margin-left: 8px;
+    margin-right: 25px;
+}

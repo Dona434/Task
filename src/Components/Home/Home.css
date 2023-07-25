@@ -1,0 +1,91 @@
+.container{
+    margin-left: 128px;
+    display: flex;
+    justify-content: left;
+    margin-top: 15px;
+}
+
+.transform{
+    color: #C2C2C2;
+    font-family: Readex Pro;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    letter-spacing: 0.28px;
+}
+.sre{
+    color: #000;
+    font-family: Readex Pro;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.32px;
+    margin-top: 65px;
+    margin-left: -365px;
+}
+.content{
+    color: #494949;
+    font-family: Readex Pro;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 100;
+    line-height: normal;
+    letter-spacing: 0.18px;
+    width: 680px;
+    margin-top: 8rem;
+    margin-left: -528px;
+}
+.secondCont{
+    margin-left: 974px;
+    margin-top: -220px;
+}
+
+.features{
+    color: #000;
+    font-family: Readex Pro;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.32px;
+    margin-left: -42.6rem;
+    margin-top: 15.5rem;
+}
+.lists{
+    margin-top: 324px;
+    margin-left: -135px;
+    color: #494949;
+    font-family: Readex Pro;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    letter-spacing: 0.18px;
+}
+.item2{
+    margin-top: "8px";
+}
+.benefits{
+    color: #000;
+    font-family: Readex Pro;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.32px;
+    margin-top: 33rem;
+    margin-left: -29.76rem;
+}
+.lists2{
+    margin-top: 37.5rem;
+    margin-left: -130px;
+    color: #494949;
+    font-family: Readex Pro;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    letter-spacing: 0.18px;
+}

@@ -1,0 +1,176 @@
+.footercontainer{
+    background: linear-gradient(38deg, #2A97E1 0%, #2490D9 20.00%, #33A6F4 74.00%, #64BCF8 100%);
+    margin-top: 47px;
+    padding:1px;
+    padding-top: 71px;
+}
+.about{
+    color: #FFF;
+    font-family: Readex Pro;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.32px;
+    margin-left: 129px;
+    margin-top: 71px;
+    display: inline;
+}
+.contact{
+    color: #FFF;
+    font-family: Readex Pro;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    letter-spacing: 0.18px;
+    padding-left: 129px;
+    margin-bottom: 90px;
+}
+.plan{
+    color: #FFF;
+    font-family: Readex Pro;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px; /* 125% */
+    letter-spacing: 0.64px;
+    margin-left: 128px;
+    margin-bottom: 24px;
+    display: inline;
+}
+.quote{
+    color: #FFF;
+    font-family: Readex Pro;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; 
+    letter-spacing: 0.36px;
+    margin-left: 129px;
+    flex: 0 0 auto; 
+    margin-right: 294px;
+}
+.logos{
+    display: flex;
+    align-items: left;
+    margin-left: 129px;
+    margin-top: -15px;
+}
+.policy{
+    color: #FFF;
+    font-family: Readex Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.32px;
+    margin-left: 129px;
+    margin-top: 65px;
+    display: flex;
+    position: relative;
+}
+
+.footerguidance{
+    color: #FFF;
+    font-family: Readex Pro;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.32px;
+    margin-left: 335px;
+    margin-top: 71px;
+    display: inline;
+}
+.sentence-container {
+    display: flex;
+  }
+  
+  .left-sentences, .right-sentences {
+    flex: 1;
+  }
+  
+  .left-sentences {
+    margin-right: -122px; 
+  }
+.news{
+    display: inline;
+    color: #FFF;
+    font-family: Readex Pro;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px; /* 125% */
+    letter-spacing: 0.64px;
+    margin-left: 268px;
+}
+.sentence-container {
+    display: flex;
+  }
+.quote2{
+    color: #FFF;
+    font-family: Readex Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 200% */
+    letter-spacing: 0.32px;
+    flex: 1;
+}
+.emailcomponent{
+    margin-top:-5px;
+}
+.email{
+    color: #FFF;
+    font-family: Readex Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px; /* 200% */
+    letter-spacing: 0.32px;
+    margin-left: 220px;
+}
+.outerrectangle {
+    width: 447.665px;
+    height: 64px;
+    border-radius: 10px;
+    background: #FFF;
+    display: flex;
+    justify-content: flex-end; /* Align the inner rectangle to the right */
+    align-items: center; /* Center the inner rectangle vertically */
+    margin-left: 220px;
+  }
+  
+  .innerrectangle {
+    width: 117.701px;
+    height: 48px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: rgba(59, 199, 243, 0.15);
+    margin-right: 10px;
+   
+  }
+.emailid{
+    margin-right: 90px;
+    color: #777;
+    font-family: Readex Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.32px;
+}
+.subscribe{
+    color: #2F2F2F;
+    font-family: Readex Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.32px;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+  
+  
